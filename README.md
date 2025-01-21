@@ -2,7 +2,7 @@
 
 **`Second Year Computer Science Undergraduate Student`** 
 
-I'm a second year computer science student currently enrolled in the *Computer Science - BSc(Hons)* program at TMU (Formerly Ryerson). I am also pursuing a minor in math. 
+I'm a second year computer science student currently enrolled in the *Computer Science - BSc(Hons)* program at TMU (Formerly Ryerson); also pursuing a minor in math. 
 
 ## 🧰 Languages and Tools
 
