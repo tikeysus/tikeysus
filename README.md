@@ -15,6 +15,8 @@ I'm a second year computer science student currently enrolled in the *Computer S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </div>
 
+## 😎 Some Facts
+
 - 🔭 I’m currently working on improving my skills in leetcode. 
 - 🌱 I’m currently learning cryptography. 
 - 👯 I’m looking to collaborate on automation scripts involving GitHub Actions. 
