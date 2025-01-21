@@ -17,7 +17,7 @@ I'm a second year computer science student currently enrolled in the *Computer S
 
 ## 😎 Some Facts
 
-- 🔭 I’m currently working on improving my skills in leetcode. 
-- 🌱 I’m currently learning cryptography. 
-- 👯 I’m looking to collaborate on automation scripts involving GitHub Actions. 
+- 🔭 Currently working on improving my skills in leetcode. 
+- 🌱 Learning cryptography. 
+- 👯 Looking to collaborate on automation scripts involving GitHub Actions. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tigran-tumanyan/)
