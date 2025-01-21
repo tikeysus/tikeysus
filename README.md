@@ -1,16 +1,19 @@
-## Hi there 👋
+# Tigran Tumanyan
 
-<!--
-**tikeysus/tikeysus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Second Year Computer Science Undergraduate Student`** 
 
-Here are some ideas to get you started:
+I'm a second year computer science student currently enrolled in the *Computer Science - BSc(Hons)* program at TMU (Formerly Ryerson). As well, I am persuing a minor in math. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
+
+- 🔭 I’m currently working on improving my skills in leetcode. 
+- 🌱 I’m currently learning cryptography. 
+- 👯 I’m looking to collaborate on automation scripts involving GitHub Actions. 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tigran-tumanyan/)
