@@ -1,8 +1,12 @@
 # Tigran Tumanyan
 
-**`Second Year Computer Science Undergraduate Student`** 
+**`Third Year Computer Science Undergraduate Student`** 
 
-I'm a second year computer science student currently enrolled in the *Computer Science - BSc(Hons)* program at TMU (Formerly Ryerson); also pursuing a minor in math. 
+I'm a third year computer science student currently enrolled in the *Computer Science - BSc(Hons)* program at TMU (Formerly Ryerson); also pursuing a minor in math. 
+
+## 🏃 Activity
+
+![Strava](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tikeysus/strava-badge/main/strava.json&logo=strava)
 
 ## 🧰 Languages and Tools
 
@@ -19,5 +23,5 @@ I'm a second year computer science student currently enrolled in the *Computer S
 
 - 🔭 Currently working on improving my skills in leetcode. 
 - 🌱 Learning cryptography. 
-- 👯 Looking to collaborate on projects involving network simulation. 
+- 👯 Looking to collaborate on projects involving low-level programming. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tigran-tumanyan/)
