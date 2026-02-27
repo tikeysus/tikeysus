@@ -6,7 +6,7 @@ I'm a third year computer science student currently enrolled in the *Computer Sc
 
 ## 🏃 Activity
 
-![Strava](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tikeysus/strava_README/main/strava.json&logo=strava&cacheSeconds=0)
+![Strava](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tikeysus/strava_README/main/strava.json?v=2&logo=strava)
 
 ## 🧰 Languages and Tools
 
