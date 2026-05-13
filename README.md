@@ -1,6 +1,6 @@
 # Tigran Tumanyan ![Strava](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tikeysus/strava_README/main/strava.json?v=2&logo=strava)
 
-**Computer Science student at TMU, math minor, and builder of things that sit close to the machine.**
+**Computer Science student at TMU, pursuing a math minor.**
 
 I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Metropolitan University, currently sharpening my problem-solving skills, studying cryptography, and exploring low-level systems work.
 
