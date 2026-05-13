@@ -28,6 +28,22 @@ function todayKey() {
   return dateKey(new Date());
 }
 
+function displayDate(dateKeyValue) {
+  const [year, month, day] = dateKeyValue.split("-").map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day, 12));
+
+  return new Intl.DateTimeFormat("en-US", {
+    timeZone: TIME_ZONE,
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+  }).format(date);
+}
+
+function commitDateKey(commit) {
+  return dateKey(new Date(commit.commit.author.date));
+}
+
 function repoLink(repoName) {
   return `[${repoName}](https://github.com/${repoName})`;
 }
@@ -38,7 +54,7 @@ function commitLink(commit) {
   return `[${message}](${commit.html_url})`;
 }
 
-async function fetchTodayCommits() {
+async function fetchRecentCommits() {
   const headers = {
     Accept: "application/vnd.github+json",
     "X-GitHub-Api-Version": "2022-11-28",
@@ -49,7 +65,7 @@ async function fetchTodayCommits() {
     headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
   }
 
-  const query = encodeURIComponent(`author:${USERNAME} author-date:${todayKey()}`);
+  const query = encodeURIComponent(`author:${USERNAME}`);
   const response = await fetch(`https://api.github.com/search/commits?q=${query}&sort=author-date&order=desc&per_page=${COMMIT_LIMIT}`, {
     headers,
   });
@@ -63,9 +79,21 @@ async function fetchTodayCommits() {
 }
 
 function buildMarkdown(commits) {
+  if (commits.length === 0) {
+    return `- No public commits found yet.`;
+  }
+
+  const today = todayKey();
+  const targetDate = commits.find((commit) => commitDateKey(commit) === today)
+    ? today
+    : commitDateKey(commits[0]);
   const latestCommitsByRepo = new Map();
 
   for (const commit of commits) {
+    if (commitDateKey(commit) !== targetDate) {
+      continue;
+    }
+
     const repoName = commit.repository.full_name;
 
     if (!latestCommitsByRepo.has(repoName)) {
@@ -77,8 +105,8 @@ function buildMarkdown(commits) {
     .slice(0, 6)
     .map(([repoName, commit]) => `${repoLink(repoName)} - ${commitLink(commit)}`);
 
-  if (items.length === 0) {
-    return `- No public commits yet today.`;
+  if (targetDate !== today) {
+    return [`No activity today. Latest public commits are from ${displayDate(targetDate)}:`, "", ...items.map((item) => `- ${item}`)].join("\n");
   }
 
   return items.map((item) => `- ${item}`).join("\n");
@@ -99,7 +127,7 @@ function updateReadme(markdown) {
 }
 
 async function main() {
-  const commits = await fetchTodayCommits();
+  const commits = await fetchRecentCommits();
   updateReadme(buildMarkdown(commits));
 }
 
