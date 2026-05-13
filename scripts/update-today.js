@@ -3,32 +3,29 @@ const fs = require("fs");
 const README_PATH = "README.md";
 const USERNAME = process.env.GITHUB_USERNAME || "tikeysus";
 const TIME_ZONE = process.env.TIME_ZONE || "America/Toronto";
-const EVENT_LIMIT = Number(process.env.EVENT_LIMIT || 100);
+const COMMIT_LIMIT = Number(process.env.COMMIT_LIMIT || 100);
 
 const START_MARKER = "<!-- TODAY:START -->";
 const END_MARKER = "<!-- TODAY:END -->";
 
-function formatInTimeZone(date, options) {
-  return new Intl.DateTimeFormat("en-CA", {
+function dateKey(date) {
+  const parts = new Intl.DateTimeFormat("en-CA", {
     timeZone: TIME_ZONE,
-    ...options,
-  }).format(date);
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  })
+    .formatToParts(date)
+    .reduce((result, part) => {
+      result[part.type] = part.value;
+      return result;
+    }, {});
+
+  return `${parts.year}-${parts.month}-${parts.day}`;
 }
 
 function todayKey() {
-  return formatInTimeZone(new Date(), {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  });
-}
-
-function eventDayKey(event) {
-  return formatInTimeZone(new Date(event.created_at), {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  });
+  return dateKey(new Date());
 }
 
 function repoLink(repoName) {
@@ -36,15 +33,12 @@ function repoLink(repoName) {
 }
 
 function commitLink(commit) {
-  const url = commit.url
-    .replace("api.github.com/repos", "github.com")
-    .replace("/commits/", "/commit/");
-  const message = commit.message.split("\n")[0];
+  const message = commit.commit.message.split("\n")[0];
 
-  return `[${message}](${url})`;
+  return `[${message}](${commit.html_url})`;
 }
 
-async function fetchEvents() {
+async function fetchTodayCommits() {
   const headers = {
     Accept: "application/vnd.github+json",
     "X-GitHub-Api-Version": "2022-11-28",
@@ -55,7 +49,8 @@ async function fetchEvents() {
     headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
   }
 
-  const response = await fetch(`https://api.github.com/users/${USERNAME}/events/public?per_page=${EVENT_LIMIT}`, {
+  const query = encodeURIComponent(`author:${USERNAME} author-date:${todayKey()}`);
+  const response = await fetch(`https://api.github.com/search/commits?q=${query}&sort=author-date&order=desc&per_page=${COMMIT_LIMIT}`, {
     headers,
   });
 
@@ -63,27 +58,18 @@ async function fetchEvents() {
     throw new Error(`GitHub API request failed: ${response.status} ${response.statusText}`);
   }
 
-  return response.json();
+  const data = await response.json();
+  return data.items || [];
 }
 
-function buildMarkdown(events) {
-  const today = todayKey();
+function buildMarkdown(commits) {
   const latestCommitsByRepo = new Map();
 
-  for (const event of events) {
-    if (event.type !== "PushEvent" || eventDayKey(event) !== today) {
-      continue;
-    }
+  for (const commit of commits) {
+    const repoName = commit.repository.full_name;
 
-    if (latestCommitsByRepo.has(event.repo.name)) {
-      continue;
-    }
-
-    const commits = event.payload.commits || [];
-    const latestCommit = commits[commits.length - 1];
-
-    if (latestCommit) {
-      latestCommitsByRepo.set(event.repo.name, latestCommit);
+    if (!latestCommitsByRepo.has(repoName)) {
+      latestCommitsByRepo.set(repoName, commit);
     }
   }
 
@@ -113,8 +99,8 @@ function updateReadme(markdown) {
 }
 
 async function main() {
-  const events = await fetchEvents();
-  updateReadme(buildMarkdown(events));
+  const commits = await fetchTodayCommits();
+  updateReadme(buildMarkdown(commits));
 }
 
 main().catch((error) => {
