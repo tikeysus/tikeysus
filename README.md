@@ -7,7 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- No public GitHub activity yet today.
+- No public commits yet today.
 <!-- TODAY:END -->
 
 ## Current Focus

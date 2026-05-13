@@ -35,48 +35,13 @@ function repoLink(repoName) {
   return `[${repoName}](https://github.com/${repoName})`;
 }
 
-function summarizeEvent(event) {
-  const repo = repoLink(event.repo.name);
+function commitLink(commit) {
+  const url = commit.url
+    .replace("api.github.com/repos", "github.com")
+    .replace("/commits/", "/commit/");
+  const message = commit.message.split("\n")[0];
 
-  switch (event.type) {
-    case "PushEvent": {
-      const commits = event.payload.commits || [];
-      const count = commits.length;
-      if (count === 0) return `Pushed to ${repo}`;
-
-      const firstCommit = commits[0];
-      const message = firstCommit.message.split("\n")[0];
-      const commitUrl = firstCommit.url
-        .replace("api.github.com/repos", "github.com")
-        .replace("/commits/", "/commit/");
-      const commitText = `[${message}](${commitUrl})`;
-      const suffix = count === 1 ? "" : ` and ${count - 1} more commit${count === 2 ? "" : "s"}`;
-
-      return `Pushed ${commitText}${suffix} to ${repo}`;
-    }
-    case "PullRequestEvent":
-      return `${capitalize(event.payload.action)} pull request [#${event.payload.pull_request.number}](${event.payload.pull_request.html_url}) in ${repo}`;
-    case "IssuesEvent":
-      return `${capitalize(event.payload.action)} issue [#${event.payload.issue.number}](${event.payload.issue.html_url}) in ${repo}`;
-    case "IssueCommentEvent":
-      return `Commented on issue [#${event.payload.issue.number}](${event.payload.comment.html_url}) in ${repo}`;
-    case "PullRequestReviewEvent":
-      return `Reviewed pull request [#${event.payload.pull_request.number}](${event.payload.review.html_url}) in ${repo}`;
-    case "CreateEvent":
-      return `Created ${event.payload.ref_type}${event.payload.ref ? ` \`${event.payload.ref}\`` : ""} in ${repo}`;
-    case "ReleaseEvent":
-      return `${capitalize(event.payload.action)} release [${event.payload.release.name || event.payload.release.tag_name}](${event.payload.release.html_url}) in ${repo}`;
-    case "ForkEvent":
-      return `Forked ${repo}`;
-    case "WatchEvent":
-      return `Starred ${repo}`;
-    default:
-      return null;
-  }
-}
-
-function capitalize(value = "") {
-  return value.charAt(0).toUpperCase() + value.slice(1);
+  return `[${message}](${url})`;
 }
 
 async function fetchEvents() {
@@ -103,14 +68,31 @@ async function fetchEvents() {
 
 function buildMarkdown(events) {
   const today = todayKey();
-  const items = events
-    .filter((event) => eventDayKey(event) === today)
-    .map(summarizeEvent)
-    .filter(Boolean)
-    .slice(0, 6);
+  const latestCommitsByRepo = new Map();
+
+  for (const event of events) {
+    if (event.type !== "PushEvent" || eventDayKey(event) !== today) {
+      continue;
+    }
+
+    if (latestCommitsByRepo.has(event.repo.name)) {
+      continue;
+    }
+
+    const commits = event.payload.commits || [];
+    const latestCommit = commits[commits.length - 1];
+
+    if (latestCommit) {
+      latestCommitsByRepo.set(event.repo.name, latestCommit);
+    }
+  }
+
+  const items = Array.from(latestCommitsByRepo.entries())
+    .slice(0, 6)
+    .map(([repoName, commit]) => `${repoLink(repoName)} - ${commitLink(commit)}`);
 
   if (items.length === 0) {
-    return `- No public GitHub activity yet today.`;
+    return `- No public commits yet today.`;
   }
 
   return items.map((item) => `- ${item}`).join("\n");
