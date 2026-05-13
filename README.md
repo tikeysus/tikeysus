@@ -7,7 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/tikeysus](https://github.com/tikeysus/tikeysus) - [updating daily activity tracker.](https://github.com/tikeysus/tikeysus/commit/cf12e67a086298844b5ef49e2fd93ec1835ced95)
+- [tikeysus/tikeysus](https://github.com/tikeysus/tikeysus) - [Use commit search for daily README activity](https://github.com/tikeysus/tikeysus/commit/836ff6e475016cae66d69a2383b4f1089fb21884)
 <!-- TODAY:END -->
 
 ## Current Focus
