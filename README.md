@@ -7,6 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [starting now so that I don't have to start later.](https://github.com/tikeysus/home_directory/commit/74b26339e8b0c65eee5168ae3110c6d3e2fa850d)
 - [tikeysus/tikeysus](https://github.com/tikeysus/tikeysus) - [Refresh README activity hourly](https://github.com/tikeysus/tikeysus/commit/a0b18449aa6b6c232579aea88b7e586b69f8d26c)
 - [tikeysus/arm_vote](https://github.com/tikeysus/arm_vote) - [Ignoring DSStore files.](https://github.com/tikeysus/arm_vote/commit/634ed59cd734c669270468e99b309e8d801d6774)
 <!-- TODAY:END -->
