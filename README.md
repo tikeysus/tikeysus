@@ -7,6 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
+- [tikeysus/arm_vote](https://github.com/tikeysus/arm_vote) - [Ignoring DSStore files.](https://github.com/tikeysus/arm_vote/commit/634ed59cd734c669270468e99b309e8d801d6774)
 - [tikeysus/tikeysus](https://github.com/tikeysus/tikeysus) - [Show latest commit day when today is empty](https://github.com/tikeysus/tikeysus/commit/92efc353cc289ea8451f74315bbcd7c08f220e1b)
 <!-- TODAY:END -->
 
