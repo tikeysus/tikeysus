@@ -1,14 +1,22 @@
-# Tigran Tumanyan
+# Tigran Tumanyan ![Strava](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tikeysus/strava_README/main/strava.json?v=2&logo=strava)
 
-**`Third Year Computer Science Undergraduate Student`** 
+**Computer Science student at TMU, math minor, and builder of things that sit close to the machine.**
 
-I'm a third year computer science student currently enrolled in the *Computer Science - BSc(Hons)* program at TMU (Formerly Ryerson); also pursuing a minor in math. 
+I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Metropolitan University, currently sharpening my problem-solving skills, studying cryptography, and exploring low-level systems work.
 
-## 🏃 Activity
+## What I Did Today
 
-![Strava](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tikeysus/strava_README/main/strava.json?v=2&logo=strava)
+<!-- TODAY:START -->
+- No public GitHub activity yet today.
+<!-- TODAY:END -->
 
-## 🧰 Languages and Tools
+## Current Focus
+
+- Practicing LeetCode and algorithmic problem solving
+- Learning cryptography and the math behind secure systems
+- Looking for projects involving systems programming, low-level tooling, or performance-minded software
+
+## Languages and Tools
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -19,9 +27,6 @@ I'm a third year computer science student currently enrolled in the *Computer Sc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </div>
 
-## 😎 Some Facts
+## Connect
 
-- 🔭 Currently working on improving my skills in leetcode. 
-- 🌱 Learning cryptography. 
-- 👯 Looking to collaborate on projects involving low-level programming. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tigran-tumanyan/)
+[LinkedIn](https://www.linkedin.com/in/tigran-tumanyan/)
