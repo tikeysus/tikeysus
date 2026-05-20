@@ -7,10 +7,10 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from May 14, 2026:
+No activity today. Latest public commits are from May 19, 2026:
 
-- [tikeysus/arm_vote](https://github.com/tikeysus/arm_vote) - [Add secure voting project roadmap](https://github.com/tikeysus/arm_vote/commit/edc37599efa15e3638253af62f6f23ea052840e5)
-- [tikeysus/tikeysus](https://github.com/tikeysus/tikeysus) - [Run README activity refresh every six hours](https://github.com/tikeysus/tikeysus/commit/bb6bb6d64d30d895098709ccd5b041b658d12c81)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [passed nearly all test cases, but I need to better consider the edge cases.](https://github.com/tikeysus/leetcode/commit/3c48ca7fe52fbb1c6df342491225a97a0e4420de)
+- [tikeysus/os-mlacc-lab](https://github.com/tikeysus/os-mlacc-lab) - [Organize project scaffold](https://github.com/tikeysus/os-mlacc-lab/commit/1824f6ae807f22410b622bbb05c3430a293d5f35)
 <!-- TODAY:END -->
 
 ## Current Focus
