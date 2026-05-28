@@ -7,6 +7,9 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
+No activity today. Latest public commits are from May 27, 2026:
+
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Add snapshot workflow and prune unused tools](https://github.com/tikeysus/home_directory/commit/bc40d3b3bd4db86012d31a54b758d6b8d38ac555)
 - [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [probably need to do something like 'safe window' zones.](https://github.com/tikeysus/leetcode/commit/4cbc717ac5090c29a7b98e1369a0b517ff419c28)
 <!-- TODAY:END -->
 
