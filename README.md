@@ -7,10 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from May 28, 2026:
-
-- [tikeysus/os-mlacc-lab](https://github.com/tikeysus/os-mlacc-lab) - [Remove repo reading workflow](https://github.com/tikeysus/os-mlacc-lab/commit/081d78722b28990f324a7cbfc3ee820ce945bfbc)
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [First problem relates to stacks, need more practice on this.](https://github.com/tikeysus/leetcode/commit/dddd99839cf9329dc71d232cfbdc2ed69a100dd9)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [ignoring vscode files](https://github.com/tikeysus/leetcode/commit/3d1aced77bf235715dfcdfbbbd7a2bdbdebfa83a)
 <!-- TODAY:END -->
 
 ## Current Focus
