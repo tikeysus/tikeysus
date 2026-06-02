@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 1, 2026:
-
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [ignoring vscode files](https://github.com/tikeysus/leetcode/commit/3d1aced77bf235715dfcdfbbbd7a2bdbdebfa83a)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Enable zoxide shell integration](https://github.com/tikeysus/home_directory/commit/59634c2e5321fade4605d6bb8572842b203ae17f)
 <!-- TODAY:END -->
 
 ## Current Focus
