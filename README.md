@@ -7,7 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Enable zoxide shell integration](https://github.com/tikeysus/home_directory/commit/59634c2e5321fade4605d6bb8572842b203ae17f)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Fix LLDB helpers for Apple file specs](https://github.com/tikeysus/home_directory/commit/75d3e14b1a945abb7a21da275172716543b56389)
 <!-- TODAY:END -->
 
 ## Current Focus
