@@ -7,10 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 2, 2026:
-
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Almost finished, don't know what to do when the popping element is the minimum element itself](https://github.com/tikeysus/leetcode/commit/0d1b6b5e18b537ff15b9efd9ee73656cb2e96111)
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Prune unused VS Code extensions](https://github.com/tikeysus/home_directory/commit/f09ab136a496dfc3e157a03a865dadc8e031e1a8)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Lessons about heap allocation.](https://github.com/tikeysus/leetcode/commit/646b2ee81c685efff411d5efe0d5aa28d17f3533)
 <!-- TODAY:END -->
 
 ## Current Focus
