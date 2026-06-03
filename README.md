@@ -7,7 +7,10 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Fix LLDB helpers for Apple file specs](https://github.com/tikeysus/home_directory/commit/75d3e14b1a945abb7a21da275172716543b56389)
+No activity today. Latest public commits are from June 2, 2026:
+
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Almost finished, don't know what to do when the popping element is the minimum element itself](https://github.com/tikeysus/leetcode/commit/0d1b6b5e18b537ff15b9efd9ee73656cb2e96111)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Prune unused VS Code extensions](https://github.com/tikeysus/home_directory/commit/f09ab136a496dfc3e157a03a865dadc8e031e1a8)
 <!-- TODAY:END -->
 
 ## Current Focus
