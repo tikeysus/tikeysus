@@ -7,9 +7,8 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 3, 2026:
-
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Lessons about heap allocation.](https://github.com/tikeysus/leetcode/commit/646b2ee81c685efff411d5efe0d5aa28d17f3533)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [test signed commit](https://github.com/tikeysus/home_directory/commit/16a06b21b09ee8d5df6cd5ff494434025338b23f)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Unfortunately Leetcode does not support Haskell, so here I am doing stuff on HackerRank.](https://github.com/tikeysus/leetcode/commit/6af7bab1c371d94a64f6a34e295e29687e76bf47)
 <!-- TODAY:END -->
 
 ## Current Focus
