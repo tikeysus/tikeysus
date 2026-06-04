@@ -7,6 +7,8 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
+No activity today. Latest public commits are from June 3, 2026:
+
 - [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Lessons about heap allocation.](https://github.com/tikeysus/leetcode/commit/646b2ee81c685efff411d5efe0d5aa28d17f3533)
 <!-- TODAY:END -->
 
