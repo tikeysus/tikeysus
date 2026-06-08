@@ -7,10 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 4, 2026:
-
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [test signed commit](https://github.com/tikeysus/home_directory/commit/16a06b21b09ee8d5df6cd5ff494434025338b23f)
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Unfortunately Leetcode does not support Haskell, so here I am doing stuff on HackerRank.](https://github.com/tikeysus/leetcode/commit/6af7bab1c371d94a64f6a34e295e29687e76bf47)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Learning about monotonic stacks.](https://github.com/tikeysus/leetcode/commit/2086045e1d4674437d8b65701aff09f80fcaab0f)
 <!-- TODAY:END -->
 
 ## Current Focus
