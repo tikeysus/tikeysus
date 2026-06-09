@@ -7,7 +7,9 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/os-mlacc-lab](https://github.com/tikeysus/os-mlacc-lab) - [Plan accelerator register interface issues](https://github.com/tikeysus/os-mlacc-lab/commit/012a513e2b8d75f31404797b527854992371eef9)
+No activity today. Latest public commits are from June 8, 2026:
+
+- [tikeysus/os-mlacc-lab](https://github.com/tikeysus/os-mlacc-lab) - [Expand scalar kernel baseline](https://github.com/tikeysus/os-mlacc-lab/commit/bfe2e49942a54b5a2f392425280c5dd3dc800fc6)
 - [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Learning about monotonic stacks.](https://github.com/tikeysus/leetcode/commit/2086045e1d4674437d8b65701aff09f80fcaab0f)
 <!-- TODAY:END -->
 
