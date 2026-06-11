@@ -7,10 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 10, 2026:
-
-- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [Checking for correctness to see if output that is in a different order is not falsely flagged to be wrong.](https://github.com/tikeysus/haskell_leetcode/commit/1afee984196749d0a0edca71bde0ef0b916c4ab7)
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Need to come back to this tomorrow.](https://github.com/tikeysus/leetcode/commit/8a8c2bb2cf97575acbb83bdf45900908ade697ba)
+- No public commits found yet.
 <!-- TODAY:END -->
 
 ## Current Focus
