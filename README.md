@@ -7,7 +7,8 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- No public commits found yet.
+- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [Merge pull request #6 from tikeysus/issue-1-batch-runner](https://github.com/tikeysus/haskell_leetcode/commit/9753a68493680a15a6e24644f838fba63fe13065)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #12 from tikeysus/feat/issue-3-sync-framework](https://github.com/tikeysus/trainingOS/commit/5ca70cf68384f41470c3db954ff8c7afee219e8c)
 <!-- TODAY:END -->
 
 ## Current Focus
