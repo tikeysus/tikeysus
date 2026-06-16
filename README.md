@@ -7,10 +7,8 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 11, 2026:
-
-- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #13 from tikeysus/feat/issue-4-normalization](https://github.com/tikeysus/trainingOS/commit/e5d8375708372e74a50a77a9d9b94f5636a2d314)
-- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [Merge pull request #6 from tikeysus/issue-1-batch-runner](https://github.com/tikeysus/haskell_leetcode/commit/9753a68493680a15a6e24644f838fba63fe13065)
+- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [add p12, p264, p343, p357, p479, p526: harness, oracle, fixtures, submission; extend catalog](https://github.com/tikeysus/haskell_leetcode/commit/3dbcbcd862f004b6c052548ab30d8fb818747380)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Add versioned training analytics](https://github.com/tikeysus/trainingOS/commit/8c932396d263a2c33a72fc13948c67af07ed514d)
 <!-- TODAY:END -->
 
 ## Current Focus
