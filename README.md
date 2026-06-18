@@ -7,10 +7,8 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 16, 2026:
-
-- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Add evidence-backed retrieval documents](https://github.com/tikeysus/trainingOS/commit/0debb440d81187303d46f421a0635d6e61491ef7)
-- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [add p12, p264, p343, p357, p479, p526: harness, oracle, fixtures, submission; extend catalog](https://github.com/tikeysus/haskell_leetcode/commit/3dbcbcd862f004b6c052548ab30d8fb818747380)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Import FIT files from Garmin export zips](https://github.com/tikeysus/trainingOS/commit/94ac1ba081eef22d16529218ff7924ac1c895c59)
+- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [add p62, p172, p279, p412: harness, oracle, fixtures, submission; update CLAUDE.md conventions](https://github.com/tikeysus/haskell_leetcode/commit/227925ff66b47fc2448cafdb4272fcec85a5f27a)
 <!-- TODAY:END -->
 
 ## Current Focus
