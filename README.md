@@ -7,8 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Import FIT files from Garmin export zips](https://github.com/tikeysus/trainingOS/commit/94ac1ba081eef22d16529218ff7924ac1c895c59)
-- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [add p62, p172, p279, p412: harness, oracle, fixtures, submission; update CLAUDE.md conventions](https://github.com/tikeysus/haskell_leetcode/commit/227925ff66b47fc2448cafdb4272fcec85a5f27a)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #29 from tikeysus/feat/grafana-coach-tile](https://github.com/tikeysus/trainingOS/commit/c064b4905363daa038b81ab558a9fa28a5e31d42)
 <!-- TODAY:END -->
 
 ## Current Focus
