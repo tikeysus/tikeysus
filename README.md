@@ -7,7 +7,9 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Switch Grafana dashboard to dark mode; add launch script](https://github.com/tikeysus/trainingOS/commit/4d1188918ad07c438f729d8adf31ca91ac3f4966)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [To be completed.](https://github.com/tikeysus/leetcode/commit/c513112b34b471236e0e92ec22489ddd7664d0ac)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Add Claude Code config section](https://github.com/tikeysus/home_directory/commit/fc02c710248e356f0ab05ec2d572f44510fb3efe)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #34 from tikeysus/feat/issue-30-anthropic-chat-provider](https://github.com/tikeysus/trainingOS/commit/66e7c36ed9717cf29bd9fb260d4a5c68aba0e2b9)
 <!-- TODAY:END -->
 
 ## Current Focus
