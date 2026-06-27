@@ -7,12 +7,9 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 24, 2026:
+No activity today. Latest public commits are from June 26, 2026:
 
-- [tikeysus/os-mlacc-lab](https://github.com/tikeysus/os-mlacc-lab) - [Merge pull request #14 from tikeysus/feature/phase1-gemm-kernels](https://github.com/tikeysus/os-mlacc-lab/commit/40dc852fd31574e39053fa9f2cd275c67c65293d)
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Add Stop/Notification hooks and skip symlinked files in snapshot](https://github.com/tikeysus/home_directory/commit/631def81367129fa5475086e2f88373c3dc60800)
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [To be completed.](https://github.com/tikeysus/leetcode/commit/c513112b34b471236e0e92ec22489ddd7664d0ac)
-- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #34 from tikeysus/feat/issue-30-anthropic-chat-provider](https://github.com/tikeysus/trainingOS/commit/66e7c36ed9717cf29bd9fb260d4a5c68aba0e2b9)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #38 from tikeysus/feat/issue-27-gitignore-hygiene](https://github.com/tikeysus/trainingOS/commit/bbb50ba574d62d203b84d212026387870f3e52f6)
 <!-- TODAY:END -->
 
 ## Current Focus
