@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from June 26, 2026:
-
-- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #38 from tikeysus/feat/issue-27-gitignore-hygiene](https://github.com/tikeysus/trainingOS/commit/bbb50ba574d62d203b84d212026387870f3e52f6)
+- [tikeysus/os-mlacc-lab](https://github.com/tikeysus/os-mlacc-lab) - [Merge pull request #22 from tikeysus/feature/issue-16-scalar-gemm-benchmark-timings](https://github.com/tikeysus/os-mlacc-lab/commit/3db672f8e917e928cc9f8588c9dec8f73e909534)
 <!-- TODAY:END -->
 
 ## Current Focus
