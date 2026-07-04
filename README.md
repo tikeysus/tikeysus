@@ -7,7 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge remote-tracking branch 'origin/master'](https://github.com/tikeysus/trainingOS/commit/e504cdec4d520232ff713ad95439f4dffaf1f960)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [Merge pull request #60 from tikeysus/feat/weatherenricher-offline-mode-precipitation](https://github.com/tikeysus/trainingOS/commit/789754b7b3a476864db043bbf0c75b7bfbe84ae0)
 <!-- TODAY:END -->
 
 ## Current Focus
