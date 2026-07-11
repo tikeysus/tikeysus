@@ -7,6 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
+- [tikeysus/tikeysus](https://github.com/tikeysus/tikeysus) - [Strava made standard developer API access available only to subscribers, I guess that's it for the cute sticker showing my yearly mileage.](https://github.com/tikeysus/tikeysus/commit/2e959a954ef37e4ad1de023cb345644dd7b1bbeb)
 - [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Some changes to the directory structure as well as a new pending problem on in place array manipulation.](https://github.com/tikeysus/leetcode/commit/5b171226992a9f44fef58da461754afdcd298738)
 <!-- TODAY:END -->
 
