@@ -1,4 +1,4 @@
-# Tigran Tumanyan ![Strava](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tikeysus/strava_README/main/strava.json?v=2&logo=strava)
+# Tigran Tumanyan
 
 **Computer Science student at TMU, pursuing a math minor.**
 
