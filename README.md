@@ -7,10 +7,10 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from July 10, 2026:
-
-- [tikeysus/tikeysus](https://github.com/tikeysus/tikeysus) - [Strava made standard developer API access available only to subscribers, I guess that's it for the cute sticker showing my yearly mileage.](https://github.com/tikeysus/tikeysus/commit/2e959a954ef37e4ad1de023cb345644dd7b1bbeb)
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Some changes to the directory structure as well as a new pending problem on in place array manipulation.](https://github.com/tikeysus/leetcode/commit/5b171226992a9f44fef58da461754afdcd298738)
+- [tikeysus/os-mlacc-lab](https://github.com/tikeysus/os-mlacc-lab) - [docs: remove board-specific language from Phase 0 architecture (issue #1)](https://github.com/tikeysus/os-mlacc-lab/commit/b1ead79e350f7e0dc89010743e87d861139583ad)
+- [tikeysus/haskell_leetcode](https://github.com/tikeysus/haskell_leetcode) - [refactor: simplify fixture generators with JSON format](https://github.com/tikeysus/haskell_leetcode/commit/e6fde0eff2369c75bcb88a10a2c485de28fdaaa6)
+- [tikeysus/trainingOS](https://github.com/tikeysus/trainingOS) - [chore: Add var/ to gitignore](https://github.com/tikeysus/trainingOS/commit/da4586adbcfc46ae6480329834201f27566d91a0)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [For tomorrow, hopefully it takes less time.](https://github.com/tikeysus/leetcode/commit/6fe8866e748b99fc3b0146226155283880ad3d26)
 <!-- TODAY:END -->
 
 ## Current Focus
