@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from July 15, 2026:
-
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Will come back tomorrow, linked lists are very interesing and need special attention.](https://github.com/tikeysus/leetcode/commit/3c10422cd36f25abd47f500ea6bc70f1e63bc9f9)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [I have the initial idea, need to get better at linked bois.](https://github.com/tikeysus/leetcode/commit/d562cc32d9550f9c55a93b8ac1ef5f7d64e7f7b7)
 <!-- TODAY:END -->
 
 ## Current Focus
