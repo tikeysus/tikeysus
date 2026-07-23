@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from July 22, 2026:
-
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Took me way too long and the answer is not smart at all. I need to do this in place instead of creating a new array, and also need to get better at indexing without needing a redundant variable j.](https://github.com/tikeysus/leetcode/commit/861f8d63f221065d1066d9eee8b41b134f4d7974)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Too much linked list shinenigans, I will return to this later.](https://github.com/tikeysus/leetcode/commit/8ec539903e638ea7994eeacc1fa78a56f860269a)
 <!-- TODAY:END -->
 
 ## Current Focus
