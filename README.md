@@ -7,7 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [This one is problematic. The integer isn't given in reverse order, makes carries harder to account for.](https://github.com/tikeysus/leetcode/commit/e33a4d58a1b6e2e71a9c3548219886110246ba80)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Took me way too long and the answer is not smart at all. I need to do this in place instead of creating a new array, and also need to get better at indexing without needing a redundant variable j.](https://github.com/tikeysus/leetcode/commit/861f8d63f221065d1066d9eee8b41b134f4d7974)
 <!-- TODAY:END -->
 
 ## Current Focus
