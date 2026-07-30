@@ -7,6 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [chore: update configuration files and hooks](https://github.com/tikeysus/home_directory/commit/91b00947f845e695b644f7ae968aa9a45633d997)
 - [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [For tomorrow.](https://github.com/tikeysus/leetcode/commit/1382ebd01a6887cebf72ac9ff84feb3550b26e3b)
 <!-- TODAY:END -->
 
