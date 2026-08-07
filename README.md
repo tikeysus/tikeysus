@@ -7,10 +7,8 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from July 29, 2026:
-
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [chore: update configuration files and hooks](https://github.com/tikeysus/home_directory/commit/91b00947f845e695b644f7ae968aa9a45633d997)
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [For tomorrow.](https://github.com/tikeysus/leetcode/commit/1382ebd01a6887cebf72ac9ff84feb3550b26e3b)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [feat: track claude statusline script and enable it in settings](https://github.com/tikeysus/home_directory/commit/57cf89f85f3f1870b7eca90d00151c6fcbbe066d)
+- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Very messy syntax.](https://github.com/tikeysus/leetcode/commit/cd17f065db01edd49c9d51d51a9f54609e158b71)
 <!-- TODAY:END -->
 
 ## Current Focus
