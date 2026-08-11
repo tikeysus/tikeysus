@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from August 7, 2026:
-
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [Hashing and sets are really nice features, makes using python worth it for some of these problems. Also need to get better at time complexity stuff.](https://github.com/tikeysus/leetcode/commit/f3bd45438f1c7ef5e8dd877675483cd10d5af33f)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [chore: configure codex status line](https://github.com/tikeysus/home_directory/commit/2721d701d6bad2f61bc2d0ce900f2ab19953fa85)
 <!-- TODAY:END -->
 
 ## Current Focus
