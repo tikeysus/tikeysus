@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from August 10, 2026:
-
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [chore: configure codex status line](https://github.com/tikeysus/home_directory/commit/2721d701d6bad2f61bc2d0ce900f2ab19953fa85)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [chore: add brew wrapper for Full Disk Access, statusline, and config updates](https://github.com/tikeysus/home_directory/commit/5b511f7b63c9eaaf5f52efacedd980aeee11b296)
 <!-- TODAY:END -->
 
 ## Current Focus
