@@ -7,9 +7,9 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from September 14, 2026:
+No activity today. Latest public commits are from October 15, 2026:
 
-- [tikeysus/leetcode](https://github.com/tikeysus/leetcode) - [chore: remove stray sysroot smoke-test file](https://github.com/tikeysus/leetcode/commit/4fa618b5aac014981be95cfef3983ae846ac53ff)
+- [tikeysus/stackwatch](https://github.com/tikeysus/stackwatch) - [chore: resolve static-binary decision in AGENTS.md](https://github.com/tikeysus/stackwatch/commit/d02241216aeb7b20368dcbb3f8e5a9ab7ea772be)
 <!-- TODAY:END -->
 
 ## Current Focus
