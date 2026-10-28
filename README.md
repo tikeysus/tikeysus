@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from October 15, 2026:
-
-- [tikeysus/stackwatch](https://github.com/tikeysus/stackwatch) - [chore: resolve static-binary decision in AGENTS.md](https://github.com/tikeysus/stackwatch/commit/d02241216aeb7b20368dcbb3f8e5a9ab7ea772be)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Refresh environment snapshot](https://github.com/tikeysus/home_directory/commit/9f2cc3eae008b4bc4badec69ea82255da3061314)
 <!-- TODAY:END -->
 
 ## Current Focus
