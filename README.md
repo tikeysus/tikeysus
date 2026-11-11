@@ -7,9 +7,7 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from October 28, 2026:
-
-- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [Refresh environment snapshot](https://github.com/tikeysus/home_directory/commit/9f2cc3eae008b4bc4badec69ea82255da3061314)
+- [tikeysus/stackwatch](https://github.com/tikeysus/stackwatch) - [feat(vm): add qemu x86-64 development VM tooling](https://github.com/tikeysus/stackwatch/commit/9934d9eb7e5f4314808411f33bf36c482b48f6a0)
 <!-- TODAY:END -->
 
 ## Current Focus
