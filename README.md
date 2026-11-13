@@ -7,9 +7,9 @@ I'm a third-year Computer Science student in the BSc(Hons) program at Toronto Me
 ## What I Did Today
 
 <!-- TODAY:START -->
-No activity today. Latest public commits are from November 11, 2026:
+No activity today. Latest public commits are from November 12, 2026:
 
-- [tikeysus/stackwatch](https://github.com/tikeysus/stackwatch) - [feat(vm): add qemu x86-64 development VM tooling](https://github.com/tikeysus/stackwatch/commit/9934d9eb7e5f4314808411f33bf36c482b48f6a0)
+- [tikeysus/home_directory](https://github.com/tikeysus/home_directory) - [chore(codex): bump model to gpt-6-luna and trust family_archive project](https://github.com/tikeysus/home_directory/commit/eb6188c5f34513e96d8f76f231771b9f74e46d51)
 <!-- TODAY:END -->
 
 ## Current Focus
